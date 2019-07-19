@@ -5,7 +5,7 @@ import (
 
 	"github.com/pbergman/app"
 	"github.com/pbergman/logger"
-	"github.com/pbergman/logger/handlers"
+	"github.com/pbergman/logger/handler"
 	"github.com/spf13/pflag"
 )
 
